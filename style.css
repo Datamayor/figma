@@ -1,0 +1,89 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    width: 650px;
+    margin: 0 auto;
+}
+
+.rectangle{
+    width: 600px;
+    height: 80px;
+}
+
+.text-1{
+   font-size: 22px;
+    text-align: left;
+    font-weight: 900px;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+.text2{
+    font-size: 10px;
+    font-weight: 800;
+    margin-bottom: 50px;
+}
+
+.text4{
+    font-size: 12px;
+}
+
+.img{
+    width: 170px;
+}
+
+.img-1{
+    padding-top: 20px;
+    width: 200px;
+}
+
+.img-container{
+   display: flex;
+   justify-content: space-between;
+}
+
+.img2{
+    width: 120px;
+    position: absolute;
+    top: 160px;
+    left: 30px;
+    z-index: -1;
+}
+
+
+.img4{
+    width: 110px;
+    position: absolute;
+    bottom: 205px;
+    right: -1px;
+    z-index: -1;
+    
+}
+
+
+.img3{
+    width: 150px;
+    position: absolute;
+    z-index: -1;
+}
+.container-1{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-container1{
+    position: relative;
+}
+
+.img-container2{
+
+    position: relative;
+    top: 100px;
+    right: 30px;
+}
