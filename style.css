@@ -30,7 +30,43 @@
 }
 
 .text4{
-    font-size: 12px;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.text5{
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.text6{
+    font-size: 7px;
+}
+.container-2{
+    display: flex;
+    gap: 20px;
+}
+
+.container3{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    gap: 4px;
+    width: 580px;
+}
+
+#gmail{
+    border-radius: 3px;
+    padding: 3px;
+    border: 1px solid gainsboro;
+}
+
+.button-1{
+    color: white;
+    width: 80px;
+    border-radius: 3px;
+    padding: 4px;
+    background-color: blueviolet;
 }
 
 .img{
@@ -47,8 +83,16 @@
    justify-content: space-between;
 }
 
+.img-container3{
+    height: 110px;
+    background-color: rgb(244, 242, 240);
+    border-radius: 6px;
+    width: 70px;
+    
+}
+
 .img2{
-    width: 120px;
+    width: 10px;
     position: absolute;
     top: 160px;
     left: 30px;
@@ -75,6 +119,7 @@
     position: relative;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 200px;
 }
 
 .img-container1{
@@ -86,4 +131,10 @@
     position: relative;
     top: 100px;
     right: 30px;
+}
+.vector{
+    width: 20px;
+    height: 20px;
+    margin-bottom:  10px;
+    margin-top: 30px;
 }
