@@ -16,7 +16,7 @@
 }
 
 .text-1{
-    line-height: 50px;
+    line-height: 70px;
     word-spacing: 4px;
    font-size: 48px;
     text-align: left;
@@ -29,6 +29,7 @@
     font-size: 18px;
     font-weight: 800;
     margin-bottom: 100px;
+    line-height: 29px;
     width: 600px;
 }
 
@@ -50,26 +51,27 @@
 .text7{
     margin-top: 200px;
     font-size: 60px;
-    margin-bottom: 100px;
+    margin-bottom: 66px;
 }
 
 .text8{
    font-size: 22px;
-   width: 900px;
+   width: 800px;
+   line-height: 50px;
 }
 
 .text9{
-    font-size: 40px;
-    width: 600px;
+    font-size: 50px;
+    width: 750px;
     margin-top: 200px;
-    margin-bottom: 26px; 
+    margin-bottom: 66px; 
     font-weight: 600;
 }
 
 .text10{
     font-size: 20px;
-    font-weight: 600;
-    width: 700px;
+    line-height: 50px;
+    width: 800px;
 }
 .container-2{
     display: flex;
@@ -118,7 +120,7 @@
 .img-container3{
     height: 350px;
     background-color: rgb(244, 242, 240);
-    border-radius: 6px;
+    border-radius: 9px;
     width: 240px;
     
 }
@@ -147,7 +149,7 @@
 }
 
 .img-4{
-    margin-right: 200px;
+    margin-right: 50px;
 }
 
 
