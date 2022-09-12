@@ -48,7 +48,7 @@
 }
 
 .text7{
-    margin-top: 150px;
+    margin-top: 200px;
     font-size: 60px;
     margin-bottom: 100px;
 }
@@ -56,6 +56,20 @@
 .text8{
    font-size: 22px;
    width: 900px;
+}
+
+.text9{
+    font-size: 40px;
+    width: 600px;
+    margin-top: 200px;
+    margin-bottom: 26px; 
+    font-weight: 600;
+}
+
+.text10{
+    font-size: 20px;
+    font-weight: 600;
+    width: 700px;
 }
 .container-2{
     display: flex;
@@ -132,6 +146,10 @@
 
 }
 
+.img-4{
+    margin-right: 200px;
+}
+
 
 .container-1{
     position: relative;
@@ -167,6 +185,12 @@
     right: 90px;
     z-index: -1;
 }
+.img7{
+    position: absolute;
+    top: -10px;
+    left: 60px;
+    z-index: -1;
+}
 
 
 .vector{
@@ -176,8 +200,9 @@
     margin-top: 100px;
 }
 
-.container4{
+.container4, .container5{
     display: flex;
     justify-content: space-between;
     position: relative;
+    margin-bottom: 200px;
 }
