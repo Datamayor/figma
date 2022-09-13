@@ -2,7 +2,7 @@
     border: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Gilroy';
 }
 
 .container{
@@ -207,4 +207,18 @@
     justify-content: space-between;
     position: relative;
     margin-bottom: 200px;
+}
+
+.container6{
+    position: relative;
+    text-align: center;
+}
+
+.img8{
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: 150px;
+    z-index: -1;
+    right: 510px;
 }
