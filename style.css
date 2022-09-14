@@ -212,13 +212,26 @@
 .container6{
     position: relative;
     text-align: center;
+    margin-bottom: 100px;
 }
 
 .img8{
-    width: 350px;
-    height: 350px;
+    width: 380px;
+    height: 380px;
     position: absolute;
-    top: 150px;
+    top: 90px;
     z-index: -1;
-    right: 510px;
+    right: 500px;
+}
+
+.container7{
+    text-align: center;
+}
+
+.text11{
+    font-size: 40px;
+}
+
+.text12{
+    font-size: 24px;
 }
