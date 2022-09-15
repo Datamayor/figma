@@ -19,9 +19,10 @@
     display: flex;
     justify-content: space-between;
     text-align: center;
-    gap: 8px;
-    width: 1440px;
+    gap: 4px;
+    width: 1240px;
     height: 350px;
+    margin: auto;
     margin-bottom: 100px;
 }
 
@@ -32,17 +33,20 @@
  }
  
  .img-container3{
-     height: 250px;
-     background-color: rgb(244, 242, 240);
+    width: 138px;
+     height: 261px;
+     background-color: #FBFBFB;
      border-radius: 9px;
-     width: 240px;
-     
  }
  
  .container4{
     display: flex;
     justify-content: space-between;
     position: relative;
+    margin-bottom: 200px;
+}
+
+.container5{
     margin-bottom: 200px;
 }
 
@@ -64,10 +68,24 @@
 }
 
 .img-container2{
-
     position: relative;
     top: 100px;
     right: 30px;
+}
+
+.img-container4{
+    background-color: #FBFBFB;
+    height: 272px;
+    width: 293px;
+    text-align: center;
+
+}
+
+.img-container-5{
+    display: flex;
+    justify-content: space-between;
+    width: 154px;
+    margin: auto;
 }
 
 
@@ -76,7 +94,23 @@
     margin-bottom: 200px;
 }
 
+.container8{
+    text-align: center;
+    margin-bottom: 50px;
+    width: 1440px;
+    height: 495px;
+    background: #FEB11C;
+}
+.container9{
+   text-align: center;
+   width: 1440px;
+   height: 318px;
+   background: #181441;
+}
 
+.container10{
+     padding-top: 200px;
+}
 .rectangle{
     width: 600px;
     height: 80px;
@@ -118,6 +152,7 @@
 .text7{
     font-size: 55px;
     width: 800px;
+    line-height: 56.25px;
     margin-top: 200px;
     margin-bottom: 66px; 
     font-weight: 600;
@@ -126,25 +161,62 @@
 .text8{
    font-size: 22px;
    width: 800px;
-   line-height: 50px;
+   line-height: 36px;
    font-weight: 500;
 }
 
 .text9{
     font-size: 55px;
+    line-height: 56.25px;
 }
 
 .text10{
     font-size: 23px;
     font-weight: 500;
+    line-height: 36px;
 }
 
+.text11{
+    font-size: 50px;
+    color: white;
+    margin-bottom: 50px;
+    padding-top: 140px;
+    font-weight: 800;
+   
+}
 
+.text12{
+    width: 526px;
+    margin: auto;
+    font-size: 24px;
+    color: white;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.text13{
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0.0074em;
+
+}
 #gmail{
     border-radius: 5px;
     padding: 8px;
     border: 1px solid gainsboro;
     width: 400px;
+}
+
+#email{
+    border-radius: 5px;
+    padding: 6px;
+    border: 1px solid gainsboro;
+    width: 300px;
+}
+form{
+    width: 474px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
 }
 
 .button-1{
@@ -153,6 +225,14 @@
     border-radius: 5px;
     padding: 8px;
     background-color: blueviolet;
+
+}
+.button-2{
+    color: white;
+    width: 140px;
+    border-radius: 5px;
+    padding: 8px;
+    background: #181441;
 }
 
 .img{
@@ -214,12 +294,18 @@
 
 
 .vector{
-    width: 40px;
-    height: 40px;
+    width: 20px;
+    height: 20px;
     margin-bottom:  50px;
     margin-top: 50px;
 }
 
+.vector1{
+    width: 70px;
+    height: 70px;
+    margin-bottom:  10px;
+    margin-top: 90px;
+}
 .img8{
     width: 380px;
     height: 380px;
