@@ -337,8 +337,8 @@ form{
 @media only screen and (max-width: 600px) {
     
     .container{
-        width: 550px;
-        margin: 0 auto;
+        width: 400px;
+        margin: auto;
     }
     
     .container-2{
@@ -347,13 +347,9 @@ form{
     }
     
     .container3{
-        display: flex;
-        justify-content: space-between;
-        text-align: center;
-        gap: 4px;
-        width: 530px;
-        height: 90px;
-        margin: auto;
+        gap: 2px;
+        width: 320px;
+        height: 100px;
         margin-bottom: 50px;
     }
     
@@ -364,10 +360,8 @@ form{
      }
      
      .img-container3{
-        width: 98px;
-         height: 261px;
-         background-color: #FBFBFB;
-         border-radius: 9px;
+        width: 48px;
+         height: 61px;
      }
      
      .container4{
@@ -468,13 +462,11 @@ form{
     }
     
     .text5{
-        font-size: 40px;
-        text-align: center;
-        font-weight: 500;
-        margin-bottom: 90px;
+        font-size: 10px;
+        margin-bottom: 20px;
     }
     .text6{
-        font-size: 20px;
+        font-size: 5px;
     }
     
     .text7{
@@ -612,10 +604,10 @@ form{
     }
     
     .vector{
-        width: 20px;
+        width: 10px;
         height: 20px;
-        margin-bottom:  50px;
-        margin-top: 50px;
+        margin-bottom:  8px;
+        margin-top: 8px;
     }
     
     .vector1{
