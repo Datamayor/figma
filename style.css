@@ -88,7 +88,6 @@
     margin: auto;
 }
 
-
 .container7{
     text-align: center;
     margin-bottom: 200px;
@@ -208,7 +207,7 @@
 
 #email{
     border-radius: 5px;
-    padding: 6px;
+    padding: 8px;
     border: 1px solid gainsboro;
     width: 300px;
 }
@@ -292,7 +291,6 @@ form{
     z-index: -1;
 }
 
-
 .vector{
     width: 20px;
     height: 20px;
@@ -335,3 +333,325 @@ form{
     position: absolute;
     right: -80px;
 }
+
+@media only screen and (max-width: 600px) {
+    
+    .container{
+        width: 550px;
+        margin: 0 auto;
+    }
+    
+    .container-2{
+        display: flex;
+        gap: 9px;
+    }
+    
+    .container3{
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+        gap: 4px;
+        width: 530px;
+        height: 90px;
+        margin: auto;
+        margin-bottom: 50px;
+    }
+    
+    
+    .img-container{
+        display: flex;
+        justify-content: space-between;
+     }
+     
+     .img-container3{
+        width: 98px;
+         height: 261px;
+         background-color: #FBFBFB;
+         border-radius: 9px;
+     }
+     
+     .container4{
+        display: flex;
+        justify-content: space-between;
+        position: relative;
+        margin-bottom:90px;
+    }
+    
+    .container5{
+        margin-bottom: 90px;
+    }
+    
+    .container6{
+        position: relative;
+        text-align: center;
+        margin-bottom: 60px;
+    }
+    
+    .container-1{
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 90px;
+        width: 380px;
+    }
+    
+    .img-container1{
+        position: relative;
+    }
+    
+    .img-container2{
+        position: relative;
+        top: 50px;
+        right: 20px;
+    }
+    
+    .img-container4{
+        background-color: #FBFBFB;
+        height: 92px;
+        width: 120px;
+        text-align: center;
+    
+    }
+    
+    .img-container-5{
+        display: flex;
+        justify-content: space-between;
+        width: 74px;
+        margin: auto;
+    }
+    
+    .container7{
+        text-align: center;
+        margin-bottom: 90px;
+    }
+    
+    .container8{
+        text-align: center;
+        margin-bottom: 50px;
+        width: 440px;
+        height: 75px;
+        background: #FEB11C;
+    }
+    .container9{
+       text-align: center;
+       width: 440px;
+       height: 318px;
+       background: #181441;
+    }
+    
+    .container10{
+         padding-top: 200px;
+    }
+    .rectangle{
+        width: 100px;
+        height: 80px;
+    }
+    
+    .text-1{
+        line-height: 10px;
+        word-spacing: 2px;
+       font-size: 10px;
+        margin-top: 30px;
+        margin-bottom: 9px;
+    }
+    
+    .text2{
+        font-size: 5px;
+        margin-bottom: 10px;
+        line-height: 9px;
+        width: 140px;
+    }
+    
+    .text4{
+        font-size: 8px;
+        font-weight: 700;
+    }
+    
+    .text5{
+        font-size: 40px;
+        text-align: center;
+        font-weight: 500;
+        margin-bottom: 90px;
+    }
+    .text6{
+        font-size: 20px;
+    }
+    
+    .text7{
+        font-size: 55px;
+        width: 800px;
+        line-height: 56.25px;
+        margin-top: 200px;
+        margin-bottom: 66px; 
+        font-weight: 600;
+    }
+    
+    .text8{
+       font-size: 22px;
+       width: 800px;
+       line-height: 36px;
+       font-weight: 500;
+    }
+    
+    .text9{
+        font-size: 55px;
+        line-height: 56.25px;
+    }
+    
+    .text10{
+        font-size: 23px;
+        font-weight: 500;
+        line-height: 36px;
+    }
+    
+    .text11{
+        font-size: 50px;
+        color: white;
+        margin-bottom: 50px;
+        padding-top: 140px;
+        font-weight: 800;
+       
+    }
+    
+    .text12{
+        width: 526px;
+        margin: auto;
+        font-size: 24px;
+        color: white;
+        margin-bottom: 20px;
+        font-weight: 600;
+    }
+    .text13{
+        font-size: 14px;
+        color: #FFFFFF;
+        letter-spacing: 0.0074em;
+    
+    }
+    #gmail{
+        padding: 4px;
+        width: 100px;
+        font-size: 9px;
+    }
+    
+    #email{
+        padding: 8px;
+        width: 300px;
+    }
+    form{
+        width: 98px;
+    }
+    
+    .button-1{
+        width: 70px;
+        padding: 4px;
+        font-size: 9px;
+    }
+    .button-2{
+        color: white;
+        width: 140px;
+        border-radius: 5px;
+        padding: 8px;
+        background: #181441;
+    }
+    
+    .img{
+        width:90px;
+    }
+    
+    .img-1{
+        padding-top: 20px;
+        width: 200px;
+    }
+    
+    .img2{
+        width: 70px;
+        position: absolute;
+        top: 370px;
+        left:70px;
+        z-index: -1;
+    }
+    
+    .img3{
+        width: 150px;
+        position: absolute;
+        z-index: -1;
+    }
+    
+    .img4{
+        width: 70px;
+        position: absolute;
+        bottom: 435px;
+        right: 7px;
+        z-index: -1;
+    
+    }
+    
+    .container1{
+        margin-right: 50px;
+    }
+    
+    .img5{
+        width: 250px;
+        position: absolute;
+        top: 32px;
+        right: -75px;
+        z-index: -1; 
+    }
+    
+    .img6{
+        position: absolute;
+        top: 320px;
+        right: 90px;
+        z-index: -1;
+    }
+    .img7{
+        position: absolute;
+        top: -10px;
+        left: 60px;
+        z-index: -1;
+    }
+    
+    .vector{
+        width: 20px;
+        height: 20px;
+        margin-bottom:  50px;
+        margin-top: 50px;
+    }
+    
+    .vector1{
+        width: 70px;
+        height: 70px;
+        margin-bottom:  10px;
+        margin-top: 90px;
+    }
+    .img8{
+        width: 380px;
+        height: 380px;
+        position: absolute;
+        top: 90px;
+        z-index: -1;
+        right: 500px;
+    }
+    
+    .img9{
+        position: absolute;
+        top: -21px;
+        left: 70px;
+        z-index: -1;
+        width: 300px;
+    }
+    
+    .img10{
+        z-index: -1;
+        position: absolute;
+        top: 400px;
+        right: 140px;
+    }
+    
+    .img11{
+        z-index: -1;
+        position: absolute;
+        right: -80px;
+    }
+}
+
