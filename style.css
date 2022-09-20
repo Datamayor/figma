@@ -349,8 +349,8 @@ form{
     .container3{
         gap: 2px;
         width: 320px;
-        height: 100px;
-        margin-bottom: 50px;
+        height: 120px;
+        margin-bottom: 20px;
     }
     
     
@@ -369,10 +369,11 @@ form{
         justify-content: space-between;
         position: relative;
         margin-bottom:90px;
+        width: 320px;
     }
     
     .container5{
-        margin-bottom: 90px;
+        margin-bottom: 10px;
     }
     
     .container6{
@@ -401,8 +402,8 @@ form{
     
     .img-container4{
         background-color: #FBFBFB;
-        height: 92px;
-        width: 120px;
+        height: 42px;
+        width: 20px;
         text-align: center;
     
     }
@@ -463,26 +464,26 @@ form{
     
     .text5{
         font-size: 10px;
-        margin-bottom: 20px;
+        margin-bottom: 2px;
     }
     .text6{
         font-size: 5px;
     }
     
     .text7{
-        font-size: 55px;
-        width: 800px;
-        line-height: 56.25px;
-        margin-top: 200px;
-        margin-bottom: 66px; 
+        font-size: 10px;
+        width: 140px;
+        line-height: 10px;
+        margin-top: 4px;
+        margin-bottom: 6px; 
         font-weight: 600;
     }
     
     .text8{
-       font-size: 22px;
-       width: 800px;
-       line-height: 36px;
-       font-weight: 500;
+       font-size: 8px;
+       width: 150px;
+       line-height: 9px;
+       font-weight: 400;
     }
     
     .text9{
@@ -556,10 +557,10 @@ form{
     }
     
     .img2{
-        width: 70px;
+        width: 67px;
         position: absolute;
-        top: 370px;
-        left:70px;
+        top: 84px;
+        left:12px;
         z-index: -1;
     }
     
@@ -570,10 +571,10 @@ form{
     }
     
     .img4{
-        width: 70px;
+        width: 67px;
         position: absolute;
-        bottom: 435px;
-        right: 7px;
+        top: -27px;
+        right: -7px;
         z-index: -1;
     
     }
@@ -583,21 +584,23 @@ form{
     }
     
     .img5{
-        width: 250px;
+        width: 67px;
         position: absolute;
-        top: 32px;
-        right: -75px;
+        top: 10px;
+        right: -25px;
         z-index: -1; 
     }
     
     .img6{
         position: absolute;
-        top: 320px;
-        right: 90px;
+        top: 80px;
+        right: 24px;
+        width: 67px ;
         z-index: -1;
     }
     .img7{
         position: absolute;
+        width: 70px;
         top: -10px;
         left: 60px;
         z-index: -1;
