@@ -110,6 +110,14 @@
 .container10{
      padding-top: 200px;
 }
+
+.container11{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-bottom: 200px;
+}
+
 .rectangle{
     width: 600px;
     height: 80px;
@@ -372,13 +380,17 @@ form{
         margin-bottom: 30px;
         width: 300px;
     }
-
         
     .img-container4{
-        background-color: #FBFBFB;
-        height: 42px;
-        width: 50px;
+        background-color: #fbfbfb;
+        height: 70px;
+        width: 80px;
         text-align: center;
+    }
+
+    .container11{
+        margin-bottom: 1px;
+        width: 335px;
     }
     
     .container5{
@@ -407,12 +419,9 @@ form{
         position: relative;
         top: 50px;
         right: 20px;
-    }
-
-    
-      
+    }      
     .img-container-4{
-        width: 200px;
+        width: 300px;
     }
     .img-container-5{
         display: flex;
@@ -429,8 +438,8 @@ form{
     .container8{
         text-align: center;
         margin-bottom: 50px;
-        width: 440px;
-        height: 75px;
+        width: 357px;
+        height: 129px;
         background: #FEB11C;
     }
     .container9{
@@ -472,8 +481,13 @@ form{
         font-size: 10px;
         margin-bottom: 2px;
     }
+
     .text6{
         font-size: 5px;
+    }
+    .text14{
+        font-size: 9px;
+        font-weight: 700;
     }
     
     .text7{
@@ -493,6 +507,7 @@ form{
     }
     
     .text9{
+        padding-top: 30px;
         font-size: 15px;
         line-height: 20px;
     }
@@ -504,21 +519,21 @@ form{
     }
     
     .text11{
-        font-size: 50px;
-        color: white;
-        margin-bottom: 50px;
-        padding-top: 140px;
-        font-weight: 800;
+        font-size: 15px;
+        letter-spacing: 1px;
+        margin-bottom: 15px;
+        padding-top: 20px;
+        font-weight: 600;
        
     }
     
     .text12{
-        width: 526px;
+        width: 206px;
         margin: auto;
-        font-size: 24px;
+        font-size: 9px;
         color: white;
         margin-bottom: 20px;
-        font-weight: 600;
+        font-weight: 500;
     }
     .text13{
         font-size: 14px;
@@ -537,7 +552,7 @@ form{
         width: 300px;
     }
     form{
-        width: 98px;
+        width: 58px;
     }
     
     .button-1{
@@ -620,10 +635,9 @@ form{
     }
     
     .vector1{
-        width: 70px;
-        height: 70px;
-        margin-bottom:  10px;
-        margin-top: 90px;
+        width: 20px;
+        margin-bottom:  -24px;
+        margin-top: -8px;
     }
     .img8{
         width: 94px;
@@ -644,14 +658,14 @@ form{
         position: absolute;
         width: 60px;
         top: 96px;
-        right: 118px;
+        right: 40px;
     }
     
     .img11{
         z-index: -1;
         width: 60px;
         position: absolute;
-        right: 53px;
+        right: -13px;
     }
 }
 
