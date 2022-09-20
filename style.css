@@ -345,8 +345,8 @@ form{
 @media only screen and (max-width: 600px) {
     
     .container{
-        width: 400px;
-        margin: auto;
+        width: 350px;
+      margin: 0 auto;
     }
     
     .container-2{
@@ -426,8 +426,11 @@ form{
     .img-container-5{
         display: flex;
         justify-content: space-between;
-        width: 74px;
+        width: 40px;
         margin: auto;
+    }
+    .face{
+        width: 10px;
     }
     
     .container7{
@@ -444,13 +447,13 @@ form{
     }
     .container9{
        text-align: center;
-       width: 440px;
-       height: 318px;
+       width: 355px;
+       height: 118px;
        background: #181441;
     }
     
     .container10{
-         padding-top: 200px;
+         padding-top: 60px;
     }
     .rectangle{
         width: 100px;
@@ -500,22 +503,23 @@ form{
     }
     
     .text8{
-       font-size: 8px;
+       font-size: 5px;
        width: 150px;
-       line-height: 9px;
+       line-height: 7px;
        font-weight: 400;
     }
     
     .text9{
         padding-top: 30px;
-        font-size: 15px;
+        font-size: 14px;
         line-height: 20px;
     }
     
     .text10{
-        font-size: 6px;
+        font-size: 5px;
         font-weight: 500;
-        line-height: 10px;
+        line-height: 8px;
+        margin-bottom: 100px;
     }
     
     .text11{
@@ -536,7 +540,7 @@ form{
         font-weight: 500;
     }
     .text13{
-        font-size: 14px;
+        font-size: 7px;
         color: #FFFFFF;
         letter-spacing: 0.0074em;
     
@@ -548,11 +552,11 @@ form{
     }
     
     #email{
-        padding: 8px;
-        width: 300px;
+        padding: 4px;
+        width: 160px;
     }
     form{
-        width: 58px;
+        width: 96px;
     }
     
     .button-1{
@@ -561,11 +565,16 @@ form{
         font-size: 9px;
     }
     .button-2{
+        font-size: 11px;
         color: white;
-        width: 140px;
+        width: 90px;
         border-radius: 5px;
-        padding: 8px;
+        padding: 1px;
         background: #181441;
+    }
+
+    .form3{
+        width: 260px;
     }
     
     .img{
@@ -604,18 +613,23 @@ form{
         width: 200px;
     }
     
+    .container_1{
+        width: 200px;
+        margin-left: 70px;
+    }
+    
     .img5{
         width: 67px;
         position: absolute;
         top: 10px;
-        right: -25px;
+        right: -14px;
         z-index: -1; 
     }
     
     .img6{
         position: absolute;
         top: 80px;
-        right: 24px;
+        right: 32px;
         width: 67px ;
         z-index: -1;
     }
@@ -642,7 +656,7 @@ form{
     .img8{
         width: 94px;
         top: -120px;
-        right: 145px;
+        right: 120px;
     }
     
     .img9{
